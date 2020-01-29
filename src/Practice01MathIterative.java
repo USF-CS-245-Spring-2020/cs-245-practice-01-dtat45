@@ -26,3 +26,4 @@ public class Practice01MathIterative implements Practice01Math {
 	}
 
 }
+//
